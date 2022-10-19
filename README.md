@@ -21,7 +21,7 @@ However, he realizes that he forgot his wallet, so he has to collect coins along
 - `Mouse` : Turn the camera around the player
 
 This is Neko, the main character. <br>
-![Image](./Neko.PNG)
+![Image](./PlatformerBP/Screenshots/Neko.PNG)
 
 # Enemies
 
@@ -35,5 +35,5 @@ Enemies are manipulated by an AI and we have 2 types of enemies, Skeleton and Ja
     Enemies spawn thanks to an enemy spawner, this enemy spawner can either make a loop or spawn without loop, you can also choose the number of enemies that spawn.
 
 Skeleton and Jack<br> 
-![Image](./Skeleton.PNG) ![Image](./Jack.PNG)
+![Image](./PlatformerBP/Screenshots/Skeleton.PNG) ![Image](./PlatformerBP/Screenshots/Jack.PNG)
 
