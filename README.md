@@ -28,7 +28,7 @@ However, he realizes that he forgot his wallet, so he has to collect coins along
 - ```Mouse``` : Turn the camera around the player
 
 This is Neko, the main character. <br>
-<img src="PlatformerBP/Screenshots/Neko.png" style="width:200px;">
+<img src="PlatformerBP/Screenshots/Neko.PNG" style="width:200px;">
 
 <br>
 
@@ -38,11 +38,11 @@ This is Neko, the main character. <br>
 
 He is a skeleton with cat ears. <br>
 He has 1 health point, and dies when you jump on his head. <br>
-<img src="PlatformerBP/Screenshots/Skeleton.png" style="width:200px;">
+<img src="PlatformerBP/Screenshots/Skeleton.PNG" style="width:200px;">
 
 ### Jack
 
 He is a scarecrow with cat ears and with a pumpkin on his head. <br>
 He has 2 health points, and dies when you jump twice on his head. <br>
 However, when you hit his head once, Jack goes back to his spawn and heals himself. <br>
-<img src="PlatformerBP/Screenshots/Jack.png" style="width:200px;">
+<img src="PlatformerBP/Screenshots/Jack.PNG" style="width:200px;">
