@@ -1,39 +1,48 @@
 # Hungry Neko
 
-This is a 3D Platformer game made on UnrealEngine 4.27.2 by Remi Serra and Umut Osmanoglu.
+### General Information
 
-# Plot
+This project was made for the ISART Digital school by Remi Serra and Umut Osmanoglu. <br>
+The goal was to create a 3D Platformer game using UnrealEngine Blueprints. 
 
-Once upon a time, a young Cat lived peacefully in the magical kingdom of Nekoland. 
-One day, he woke up during the night with a terrible hunger. He wanted a burger and nothing else, so naturally, he decides to go to the closest Burger Queen fast food restaurant. 
+<br>
+
+## Plot
+
+Neko the cat lives peacefully in the magical kingdom of Nekoland. <br>
+But one day, he wakes up during the night with a terrible hunger. <br>
+He wants a burger and nothing else, so naturally, he decides to go to the closest Burger Queen fast food restaurant. <br>
 However, he realizes that he forgot his wallet, so he has to collect coins along the way to pay for his meal.
 
+<br>
 
-# Player
+## Player
 
-## Controls
+### Controls
 
-- `WASD` : Move the Player
-- `Space` : Jump
-- `Space on wall` : Wall jump
-- `Space in air` : Double Jump 
-- `Shift` : Dash
-- `Mouse` : Turn the camera around the player
+- ```WASD``` : Move the Player
+- ```Space``` : Jump
+- ```Space on wall``` : Wall jump
+- ```Space in air``` : Double Jump 
+- ```Shift``` : Dash
+- ```Mouse``` : Turn the camera around the player
 
 This is Neko, the main character. <br>
-![Image](./PlatformerBP/Screenshots/Neko.PNG)
+<img src="PlatformerBP/Screenshots/Neko.png" style="width:200px;">
 
-# Enemies
+<br>
 
-Enemies are manipulated by an AI and we have 2 types of enemies, Skeleton and Jack.
+## Enemies
 
-## Skeleton Enemy
-    He is a small enemy with cat ears. He has 1 health point, and dies when you jump on his head.
-## Jack Enemy
-    He is a big enemy with cat ears and with a pumpkin on his head. He has 2 health points, and dies when you jump twice on his head. On the other hand, when you hit his head once, Jack goes back to his spawn and heals himself.
-## Ennemy Spawner
-    Enemies spawn thanks to an enemy spawner, this enemy spawner can either make a loop or spawn without loop, you can also choose the number of enemies that spawn.
+### Skeleton
 
-Skeleton and Jack<br> 
-![Image](./PlatformerBP/Screenshots/Skeleton.PNG) ![Image](./PlatformerBP/Screenshots/Jack.PNG)
+He is a skeleton with cat ears. <br>
+He has 1 health point, and dies when you jump on his head. <br>
+<img src="PlatformerBP/Screenshots/Skeleton.png" style="width:200px;">
 
+### Jack
+
+He is a scarecrow with cat ears and with a pumpkin on his head. <br>
+He has 2 health points, and dies when you jump twice on his head. <br>
+However, when you hit his head once, Jack goes back to his spawn and heals himself. <br>
+<img src="PlatformerBP/Screenshots/Jack.png" style="width:200px;">
